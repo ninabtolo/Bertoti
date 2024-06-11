@@ -9,7 +9,7 @@ O que foi compreendido + conversa na aula + exemplos de trade-offs:
 
 Na engenharia de software deve haver uma maior preocupação com passagem do tempo, necessidade de mudança, escala e eficiência, tanto com o software como com a empresa, o que gera tomadas de decisões mais complexas. Assim, pode-se definir que a engenharia de software é a incrementação de processos com a programação ao longo do tempo: desenvolovimento, modificação, manutenção, etc. Outra forma de definição é que a Engenharia de software é programação + tempo e escala + trade-offs. 
 
-Trade-off: o que se ganha e se perde nas decisões tomadas, por exemplo: a facilidade e rapidez ao utilizar um determinado sistema operacional, as limitações na utilização de uma determinada linguagem, e qual cabo de rede é mais adequado para um certo ambiente. Pode-se afirmar que os próprios tempo e escala são uma forma de trade-off, pois quanto mais trabalho demanda uma tarefa, mais tempo ela levará para ser feita. 
+Trade-off: o que se ganha e se perde nas decisões tomadas, *por exemplo: a facilidade e rapidez ao utilizar um determinado sistema operacional, as limitações na utilização de uma determinada linguagem, e qual cabo de rede é mais adequado para um certo ambiente. Pode-se afirmar que os próprios tempo e escala são uma forma de trade-off, pois quanto mais trabalho demanda uma tarefa, mais tempo ela levará para ser feita.* 
 
 Quanto à programação, o próprio texto afirma que ela é uma parte fundamental da engenharia de software, mas não se deve aderir suposição de que é apenas isso.
 
