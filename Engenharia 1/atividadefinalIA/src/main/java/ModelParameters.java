@@ -23,14 +23,16 @@ public class ModelParameters {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            // Solicitar entrada do usuário
             System.out.print("Digite uma mensagem para a IA: ");
             String prompt = scanner.nextLine();
 
-            // Gerar resposta da IA com base na entrada do usuário
+            if (prompt.equalsIgnoreCase("pare")) {
+                System.out.println("Obrigada por usar a IA");
+                break; 
+            }
+
             String response = model.generate(prompt);
 
-            // Imprimir a resposta da IA
             System.out.println("Resposta da IA: " + response);
         }
     }
